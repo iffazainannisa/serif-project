@@ -1,0 +1,176 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 320px) {
+  /* Home */
+  .halo h4,p{
+  	font-size: 12pt;
+  }
+
+  /*Edit Profile*/
+  .foto{
+  	width: 80%;
+  }
+
+  .upload{
+  	overflow: hidden;
+  	font-size: 12px;
+  }
+
+  .isi{
+  	font-size: 10pt;
+  }
+
+  .isiku{
+  	margin-bottom: 0;
+  	font-size: 10pt;
+  }
+
+  /*Edit Pengurus*/
+  .pengurus{
+  	font-size: 10pt;
+  }
+
+  .pengurus h6{
+  	font-size: 9pt;
+  }
+
+  .kiri{
+  	margin-left: 5%;
+  }
+
+  /*Anggota*/
+  .kotak{
+  	font-size: 10pt;
+  }
+
+  .pilih{
+  	font-size: 10pt;
+  }
+
+  .pilihan{
+  	margin-left: 10%;
+  	margin-bottom: -10%;
+  	font-size: 10pt;
+  }
+
+  .detail{
+  	font-size: 5pt;
+  }
+
+  .ultah{
+  	font-size: 7pt;
+  }
+
+}
+
+@media only screen and (max-width: 375px) {
+   /*Edit Profile*/
+  .foto{
+  	width: 90%;
+  }
+
+  .upload{
+  	overflow: hidden;
+  	font-size: 12px;
+  }
+
+  .isi{
+  	font-size: 12pt;
+  }
+
+  .isiku{
+  	margin-bottom: 0;
+  	font-size: 12pt;
+  }
+
+   /*Edit Pengurus*/
+  .pengurus{
+  	font-size: 12pt;
+  }
+
+  .pengurus h6{
+  	font-size: 10pt;
+  }
+
+  .kiri{
+  	margin-left: 5%;
+  }
+
+  .kotak{
+  	font-size: 10pt;
+  }
+
+  .pilih{
+  	font-size: 12pt;
+  }
+
+  .pilihan{
+  	margin-left: 10%;
+  	margin-bottom: -10%;
+  	font-size: 12pt;
+  }
+
+  .detail{
+  	font-size: 7pt;
+  }
+
+  .ultah{
+  	font-size: 8pt;
+  }
+}
+
+
+@media only screen and (max-width: 425px) {
+   /*Edit Profile*/
+  .foto{
+  	width: 90%;
+  }
+
+  .upload{
+  	overflow: hidden;
+  	font-size: 12px;
+  }
+
+  .isi{
+  	font-size: 12pt;
+  }
+
+  .isiku{
+  	margin-bottom: 0;
+  	font-size: 12pt;
+  }
+
+   /*Edit Pengurus*/
+  .pengurus{
+  	font-size: 12pt;
+  }
+
+  .pengurus h6{
+  	font-size: 10pt;
+  }
+
+  .kiri{
+  	margin-left: 5%;
+  }
+
+  .kotak{
+  	font-size: 10pt;
+  }
+
+  .pilih{
+  	font-size: 12pt;
+  }
+
+  .pilihan{
+  	margin-left: 10%;
+  	margin-bottom: -10%;
+  	font-size: 12pt;
+  }
+
+  .detail{
+  	font-size: 7pt;
+  }
+
+  .ultah{
+  	font-size: 8pt;
+  }
+} 
